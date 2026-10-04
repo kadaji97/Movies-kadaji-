@@ -1,0 +1,18 @@
+{
+  "name": "movieskadaji",
+  "version": "1.0.0",
+  "description": "Movieskadaji - Android App and Web Companion Service",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo 'Android APK build ready'"
+  },
+  "keywords": [
+    "android",
+    "movieskadaji",
+    "streaming"
+  ],
+  "author": "Movieskadaji",
+  "license": "ISC"
+}

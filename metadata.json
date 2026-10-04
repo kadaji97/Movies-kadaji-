@@ -1,0 +1,8 @@
+{
+  "name": "  Movieskadaji1 fresh1",
+  "description": "An immersive, login-free cinematic PWA for local media tracking, streaming, and offline viewing with a sleek dark interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

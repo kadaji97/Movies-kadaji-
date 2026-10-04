@@ -1,0 +1,13 @@
+{
+  "MOVIE_PLAYER_BASE_URL": "https://vidlink.pro",
+  "TV_PLAYER_BASE_URL": "https://vidlink.pro",
+  "MOVIE_MIRROR_BASE_URL": "https://vidsrc.xyz",
+  "TV_MIRROR_BASE_URL": "https://vidsrc.xyz",
+  "CUSTOM_PRIMARY_COLOR": "00E5FF",
+  "CUSTOM_ICON_STYLE": "vid",
+  "AUTOPLAY_ENABLED": true,
+  "NEXT_EPISODE_BUTTON_ENABLED": true,
+  "API_TIMEOUT_SECONDS": 15,
+  "DEFAULT_DOWNLOAD_SUBDIR": "Movieskadaji",
+  "FALLBACK_CDN_URL": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+}

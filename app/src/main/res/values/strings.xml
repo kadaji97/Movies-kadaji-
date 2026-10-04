@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movieskadaji</string>
+    <string name="download_notification_channel_name">Movie Downloads</string>
+    <string name="download_notification_channel_description">Shows offline movie download progress and completion</string>
+
+    <!-- Google & Firebase App Measurement Configuration -->
+    <string name="google_app_id" translatable="false">1:645770160672:android:movieskadaji</string>
+    <string name="gcm_defaultSenderId" translatable="false">645770160672</string>
+    <string name="project_id" translatable="false">movieskadaji</string>
+</resources>
